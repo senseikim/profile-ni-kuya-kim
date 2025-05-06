@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b8a49f56.css",
+    "main.js": "/static/js/main.3a3e0b65.js",
+    "static/media/PIC NIKIM.jpg": "/static/media/PIC NIKIM.f6f9ae8e7661af90e94b.jpg",
+    "index.html": "/index.html",
+    "main.b8a49f56.css.map": "/static/css/main.b8a49f56.css.map",
+    "main.3a3e0b65.js.map": "/static/js/main.3a3e0b65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8a49f56.css",
+    "static/js/main.3a3e0b65.js"
+  ]
+}
